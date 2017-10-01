@@ -28,9 +28,15 @@ Um das Tool zu installieren, muss es an die Windows Aufgabenplanung angekoppelt 
 Dies ist notwendig, damit bei An/Abmeldungen das Tool die Warnung ein und ausschalten kann.<br><br>
 Für die Eintragung in die Aufgabenplanung gibt es zwei xml-Dateien, die die Konfiguration durchführen.<br>
 Bevor die Dateien importiert werden können, muss der Pfad zum Tool ausgewählt werden.<br>
-Dazu die Dateien
+Dazu die Dateien:
 ```
 Hilfsdateien\RDP-Kick-Prevention_Off.xml
 Hilfsdateien\RDP-Kick-Prevention_On.xml
 ```
-aus dem Download in einem Editor öffnen und unter `Command (Zeile: 44)` den Pfad zum Tool angeben.
+aus dem Download in einem Editor öffnen und unter `Command (Zeile: 44)` den Pfad zum Tool angeben.<br>
+
+Sobald die Dateien bereit sind, können sie in die Aufgabenplanung importiert werden.
+
+![Import](https://t.gyazo.com/teams/ugc/a803111d583358789a5cbfb112757c2e.png)
+
+Nach dem Import muss nur noch der ausführende Benutzer ausgewählt werden und das System ist aktiv.
