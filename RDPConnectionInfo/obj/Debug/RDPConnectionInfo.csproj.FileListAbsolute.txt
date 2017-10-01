@@ -1,0 +1,7 @@
+c:\users\jan\documents\visual studio 2017\Projects\RDPConnectionInfo\RDPConnectionInfo\bin\Debug\RDPConnectionInfo.exe.config
+c:\users\jan\documents\visual studio 2017\Projects\RDPConnectionInfo\RDPConnectionInfo\bin\Debug\RDPConnectionInfo.exe
+c:\users\jan\documents\visual studio 2017\Projects\RDPConnectionInfo\RDPConnectionInfo\bin\Debug\RDPConnectionInfo.pdb
+c:\users\jan\documents\visual studio 2017\Projects\RDPConnectionInfo\RDPConnectionInfo\obj\Debug\RDPConnectionInfo.exe
+c:\users\jan\documents\visual studio 2017\Projects\RDPConnectionInfo\RDPConnectionInfo\obj\Debug\RDPConnectionInfo.pdb
+c:\users\jan\documents\visual studio 2017\Projects\RDPConnectionInfo\RDPConnectionInfo\bin\Debug\INIFileParser.dll
+c:\users\jan\documents\visual studio 2017\Projects\RDPConnectionInfo\RDPConnectionInfo\bin\Debug\INIFileParser.xml
