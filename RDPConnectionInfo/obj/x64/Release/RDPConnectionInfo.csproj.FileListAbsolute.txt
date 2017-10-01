@@ -1,0 +1,8 @@
+C:\Users\Jan\Documents\GitHub\RDP-Kick-Prevention\RDPConnectionInfo\bin\x64\Release\RDPConnectionInfo.exe.config
+C:\Users\Jan\Documents\GitHub\RDP-Kick-Prevention\RDPConnectionInfo\bin\x64\Release\RDPConnectionInfo.exe
+C:\Users\Jan\Documents\GitHub\RDP-Kick-Prevention\RDPConnectionInfo\bin\x64\Release\RDPConnectionInfo.pdb
+C:\Users\Jan\Documents\GitHub\RDP-Kick-Prevention\RDPConnectionInfo\bin\x64\Release\INIFileParser.dll
+C:\Users\Jan\Documents\GitHub\RDP-Kick-Prevention\RDPConnectionInfo\bin\x64\Release\INIFileParser.xml
+C:\Users\Jan\Documents\GitHub\RDP-Kick-Prevention\RDPConnectionInfo\obj\x64\Release\RDPConnectionInfo.csprojResolveAssemblyReference.cache
+C:\Users\Jan\Documents\GitHub\RDP-Kick-Prevention\RDPConnectionInfo\obj\x64\Release\RDPConnectionInfo.exe
+C:\Users\Jan\Documents\GitHub\RDP-Kick-Prevention\RDPConnectionInfo\obj\x64\Release\RDPConnectionInfo.pdb
