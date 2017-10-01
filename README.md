@@ -15,7 +15,7 @@ Bei dem Lösungsansatz, das dieses Tool verfolgt, wird eine Warnung eingeblendet
 
 Die Warnung kann entweder mit 'OK' ignoriert werden, oder man beednet den Verbindungsaufbau.
 
-##Konfiguration
+## Konfiguration
 Das Tool beinhaltet eine ini-Konfigurationsdatei, mit der die Warnung an die Wünsche des Nutzers angepasst werden kann.
 ```
 [Settings]
@@ -23,6 +23,6 @@ MessagesCaption = "WARNING!"
 MessageText = "There is currently a user connected to this rdp session! If you countinue, he will get kicked out!"
 ```
 
-##Installation
+## Installation
 Um das Tool zu installieren, muss es an die Windows Aufgabenplanung angekoppelt werden.
 Dies ist notwendig, damit bei An/Abmeldungen das Tool die Warnung ein und ausschalten kann.
