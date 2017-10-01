@@ -11,6 +11,6 @@ Die Konsequenz daraus ist, dass der verbundene Benutzer ohne Vorwarnung vom Serv
 ## Die Lösung
 Bei dem Lösungsansatz, das dieses Tool verfolgt, wird eine Warnung eingeblendet, sobald man zu dem Server verbindet, auf dem sich bereits ein Benutzer befindet.
 
-https://t.gyazo.com/teams/ugc/0032cfc9020444bfea48d88ff2ec814b.png
+[logo]: https://t.gyazo.com/teams/ugc/0032cfc9020444bfea48d88ff2ec814b.png "Warnung"
 
 Die Warnung kann entweder mit 'OK' ignoriert werden, oder man beednet den Verbindungsaufbau.
